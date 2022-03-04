@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    color: orange;
+    font-family: 'Fugaz One', cursive;
+    font-size: 40px;
+}
+header{
+    text-align: center;
+    font-family: 'Fugaz One', cursive;
+    background-color: grey;
+    font-size: 40px;   
+}
+h2{
+    text-align: center;
+    color: lightgreen;
+}
